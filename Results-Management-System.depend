@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1682604804 source:c:\users\ja606\synologydrive\school\c unix programming\group project\results-management-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1682734647 source:c:\users\ja606\synologydrive\school\c unix programming\group project\flight-booking-program\results-management-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
